@@ -1,0 +1,28 @@
+{
+  "name": "forage-fetch",
+  "version": "0.0.1",
+  "description": "Forage-fetch crawls websites",
+  "main": "./lib/forage-fetch.js",
+  "dependencies": {
+    "commander": "2.0.0",
+    "cheerio": "0.0.3",
+    "colors": "0.6.2",
+    "underscore": "1.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fergiemcdowall/forage-fetch.git"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "bin": {
+    "forage-fetch": "./bin/forage-fetch"
+  },
+  "maintainers": [
+    "fergiemcdowall <fergusmcdowall@gmail.com>"
+  ],
+  "engines": {
+    "node": ">= 0.8.x"
+  }
+}
