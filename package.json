@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fergiemcdowall/forage-fetch.git"
+    "url": "https://github.com/foragejs/forage-fetch.git"
   },
   "keywords": [
     "crawler"
