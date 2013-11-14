@@ -14,3 +14,8 @@ $ forage-fetch --help
     -p, --protocol <protocol>    specify the protocol, defaults to http://
     -s, --starturl <starturl>    specify the URL to start fetching from
 ```
+
+[![NPM](https://nodei.co/npm/forage-fetch.png?stars&downloads)](https://nodei.co/npm/forage-fetch/)
+
+[![NPM](https://nodei.co/npm-dl/forage-fetch.png)](https://nodei.co/npm/forage-fetch/)
+
