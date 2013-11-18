@@ -10,9 +10,8 @@ $ forage-fetch --help
     -h, --help                   output usage information
     -V, --version                output the version number
     -d, --directory <directory>  specify the fetch directory,
-    -n, --hostname <hostname>    specify the hostname
-    -p, --protocol <protocol>    specify the protocol, defaults to http://
-    -s, --starturl <starturl>    specify the URL to start fetching from
+    -r, --urlregexp <urlregexp>  an expression that matches the URLs to follow
+    -s, --starturl <starturl>    specify the relative URL path to start fetching from
 ```
 
 [![NPM](https://nodei.co/npm/forage-fetch.png?stars&downloads)](https://nodei.co/npm/forage-fetch/)
