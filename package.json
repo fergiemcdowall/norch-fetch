@@ -1,6 +1,6 @@
 {
   "name": "forage-fetch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Fetch pure HTML from a webserver and save it to disk",
   "main": "./lib/forage-fetch.js",
   "dependencies": {
