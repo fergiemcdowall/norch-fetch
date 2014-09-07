@@ -1,8 +1,8 @@
 {
-  "name": "forage-fetch",
+  "name": "norch-fetch",
   "version": "0.0.2",
   "description": "Fetch pure HTML from a webserver and save it to disk",
-  "main": "./lib/forage-fetch.js",
+  "main": "./lib/norch-fetch.js",
   "dependencies": {
     "commander": "2.0.0",
     "cheerio": "0.0.3",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/foragejs/forage-fetch.git"
+    "url": "https://github.com/norchjs/norch-fetch.git"
   },
   "keywords": [
     "crawler"
   ],
   "bin": {
-    "forage-fetch": "./bin/forage-fetch"
+    "norch-fetch": "./bin/norch-fetch"
   },
   "maintainers": [
     "fergiemcdowall <fergusmcdowall@gmail.com>"

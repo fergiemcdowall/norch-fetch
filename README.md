@@ -1,9 +1,9 @@
-forage-fetch
+norch-fetch
 ============
 ```
-$ forage-fetch --help
+$ norch-fetch --help
 
-  Usage: forage-fetch [options]
+  Usage: norch-fetch [options]
 
   Options:
 
@@ -14,7 +14,7 @@ $ forage-fetch --help
     -s, --starturl <starturl>    specify the relative URL path to start fetching from
 ```
 
-[![NPM](https://nodei.co/npm/forage-fetch.png?stars&downloads)](https://nodei.co/npm/forage-fetch/)
+[![NPM](https://nodei.co/npm/norch-fetch.png?stars&downloads)](https://nodei.co/npm/norch-fetch/)
 
-[![NPM](https://nodei.co/npm-dl/forage-fetch.png)](https://nodei.co/npm/forage-fetch/)
+[![NPM](https://nodei.co/npm-dl/norch-fetch.png)](https://nodei.co/npm/norch-fetch/)
 
